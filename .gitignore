@@ -1,0 +1,9 @@
+*.Rmd
+*.R
+*.log
+LassoTest*
+midterm_code.pdf
+*.png
+*.odt
+papers
+project
