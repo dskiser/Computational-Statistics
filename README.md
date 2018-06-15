@@ -1,0 +1,3 @@
+# Computational Statistics
+
+This repository contains work done for Computational Statistics (STAT 5443) at the University of Arkansas.  The course began with a discussion of computational complexity and sampling methods (MCMC) and ended with a discussion of statistical learning machines.  A lot of time was spent on the problem of "wide" data, where the number of features is much greater than the number of observations. 
